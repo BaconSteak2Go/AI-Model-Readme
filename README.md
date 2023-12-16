@@ -28,3 +28,5 @@ After saving the .py codes, downloading and setting directories for the dataset,
 
 *CAN ONLY RUN ON AN NVIDIA GPU WITH CUDA CORES*
 
+Questions can be directed to rempelg@student.wpunj.edu
+
